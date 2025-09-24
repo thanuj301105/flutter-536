@@ -3,7 +3,7 @@
 # 👋 Welcome to the Repository **UI_Flutter** 🎉  
 ✨ A **playground of Flutter & Dart experiments** — where creativity meets clean UI!  
 
-💡 Built with passion by **bnpranavika**, this repo showcases **small but powerful snippets of Flutter magic**.  
+💡 Built with passion by **bnthanuj**, this repo showcases **small but powerful snippets of Flutter magic**.  
 
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="70" />  
 
