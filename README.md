@@ -28,7 +28,6 @@
 ## 📸 Sample Outputs  
 
 ### ✅ Output for `Sample_program`  
-<img width="911" height="103" alt="55b6de9a-efea-4f36-8e3f-22161fdc81d3" src="https://github.com/user-attachments/assets/d881db42-3d5c-4163-8740-051de34e3eb1" />  
 
 ---
 
