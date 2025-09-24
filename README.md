@@ -3,13 +3,13 @@
 # 👋 Welcome to the Repository **UI_Flutter** 🎉  
 ✨ A **playground of Flutter & Dart experiments** — where creativity meets clean UI!  
 
-💡 Built with passion by **bnthanuj**, this repo showcases **small but powerful snippets of Flutter magic**.  
+💡 Built with passion by **thanuj**, this repo showcases **small but powerful snippets of Flutter magic**.  
 
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="70" />  
 
 ---
 
-✨ Here you’ll find some cool Dart & Flutter programs crafted by **bnpranavika** ✨  
+✨ Here you’ll find some cool Dart & Flutter programs crafted by **thanuj** ✨  
 
 <img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="120" />  
 
@@ -60,11 +60,11 @@
 ---
 
 ### ✅ Output for `Statefull_Widget`
-<img width="930" height="673" alt="image" src="https://github.com/user-attachments/assets/ab020942-cd8f-4955-bd90-2dbfa27f6471" />
+
 
 ---
 ### 🎯 Output for `Stateless_Widget` 
-<img width="930" height="682" alt="image" src="https://github.com/user-attachments/assets/77703cc5-8362-45d7-889f-8e6c1038f205" />
+
 
 ---
 ### ✅ Output for `Setstate&provider`
@@ -79,5 +79,5 @@ Think of this as your **handy cookbook of Flutter widgets** 👩‍💻👨‍�
 ---
 
 ## 🔗 Connect with me  
-[![GitHub](https://img.shields.io/badge/GitHub-bnpranavika-black?logo=github&style=for-the-badge)](https://github.com/bnpranavika)  
+[![GitHub](https://img.shields.io/badge/GitHub-bnpranavika-black?logo=github&style=for-the-badge)](https://github.com/thanuj)  
 
