@@ -78,5 +78,5 @@ Think of this as your **handy cookbook of Flutter widgets** 👩‍💻👨‍�
 ---
 
 ## 🔗 Connect with me  
-[![GitHub](https://img.shields.io/badge/GitHub-bnpranavika-black?logo=github&style=for-the-badge)](https://github.com/thanuj)  
+[![GitHub](https://img.shields.io/badge/GitHub-thanuj-black?logo=github&style=for-the-badge)](https://github.com/thanuj)  
 
